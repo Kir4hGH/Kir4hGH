@@ -19,7 +19,7 @@ I'm a software developer. Especially when it comes to games and 3D graphics 😍
 
 [![My Primary Skills](https://skillicons.dev/icons?i=python,cs,pycharm,visualstudio,linux,git&perline=3&theme=light)](https://skillicons.dev) 
 
-[![My Primary Skills](https://skillicons.dev/icons?i=unity&theme=light)](https://skillicons.dev)
+[![My Primary Skills](https://skillicons.dev/icons?i=unity&theme=light)](https://skillicons.dev) ![Unigine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Unigine_corp_logo.png/345px-Unigine_corp_logo.png)
 
 [![My Secondary Skills](https://skillicons.dev/icons?i=vscode,cpp,blender,docker,cmake,pr&perline=3)](https://skillicons.dev)
 
