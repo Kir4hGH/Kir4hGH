@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kir4h&reversal=false&section=header&animation=fadeIn&textBg=false&fontAlignY=50&desc=dev%20XD&descAlign=60&descAlignY=64&fontAlign=50)
 
-# 👋 Hello there, General Kenobi...
+# 👋 Hello there, I'm Kir4h!
 
 > sudo chmod +x README.md
 
